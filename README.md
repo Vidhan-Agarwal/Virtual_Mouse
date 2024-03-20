@@ -16,7 +16,7 @@ This project implements a virtual mouse controlled by hand gestures using OpenCV
 * OpenCV library (`pip install --upgrade opencv-python`)
 * autopy library (`pip install autopy`)
 * Mediapipe library(`python -m pip install mediapipe`)
-* [hand_tracking_module.py] (ai_virtual_mouse/hand_tracking_module.py)
+* [hand_tracking_module.py](modules/hand_tracking_module.py)
 
 **Instructions:**
 
